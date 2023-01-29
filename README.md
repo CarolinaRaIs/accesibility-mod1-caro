@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-md !Horiseon refactor web page (/assets/images/screencapture-127-0-0-1-5500-Develop-index-html-2023-01-28-21_45_40.png)
+!Website (Develop/assets/images/Screen Shot 2023-01-28 at 10.54.46 PM.png)
 
 The web site has a navigation bar located at the top of the page that lists Horiseon's expertise. For more information on each subject click on the topic name and the web page will automatically jump to the section that contains information on that particular subject.   
 
